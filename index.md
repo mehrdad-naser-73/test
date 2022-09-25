@@ -1,6 +1,6 @@
 ---
-title: Natural Language Processing
-subtitle: Khatam University, Winter 1400
+title: Machine Learning
+subtitle: Khatam University, Fall 1401
 layout: page
 show_sidebar: false
 ---
@@ -9,7 +9,6 @@ show_sidebar: false
 
 message="
 ### Announcements
-* 4th Assignment is released! Check out [assignments page](assignments).
 " 
 icon="false"
 %}
@@ -47,11 +46,7 @@ Natural Language Processing (NLP) is one of the main subfields of Artificial Int
    <div class="columns is-multiline">
     <div class="column is-3 has-text-centered">
      <img src="assets/img/kave.jpg" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-5">Kave Eskandari</p>
-    </div>
-    <div class="column is-3 has-text-centered">
-     <img src="assets/img/mahdi.jpg" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-5">Mahdi Zakizadeh</p>
+     <p class="subtitle is-5">Machine Learning</p>
     </div>
    </div>
    </div>
