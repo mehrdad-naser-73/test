@@ -15,7 +15,6 @@ icon="false"
 
 # About This Course
 
-Natural Language Processing (NLP) is one of the main subfields of Artificial Intelligence (AI) which deals with understanding and generating human language (often in text form). Similarly to most other applied areas of AI, NLP has undergone a rapid change over the past decade with advancements in the area of machine (deep) learning. This course provides an overview of some of the most recent developments in the area of NLP, mostly with deep learning flavor.
 
 
 <div class="container">
@@ -46,7 +45,7 @@ Natural Language Processing (NLP) is one of the main subfields of Artificial Int
    <div class="columns is-multiline">
     <div class="column is-3 has-text-centered">
      <img src="assets/img/kave.jpg" height="auto" width="96" style="border-radius:100%">
-     <p class="subtitle is-5">Machine Learning</p>
+     <p class="subtitle is-5">Mehrdad Nasser</p>
     </div>
    </div>
    </div>
